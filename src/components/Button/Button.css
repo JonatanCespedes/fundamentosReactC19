@@ -1,0 +1,10 @@
+.btnStyled {
+    border: none;
+    background-color: blueviolet;
+    color: orange;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 1rem 2rem;
+    font-size: 20px;
+    text-transform: uppercase;
+    border-radius: 10px;
+}
