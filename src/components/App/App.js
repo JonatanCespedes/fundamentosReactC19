@@ -10,6 +10,8 @@ function App() {
     <div className="App">
       <h1>React doc - Inicio Rapido</h1>
       <hr/>
+      <Button text={"PROPTYPES"} className="btn-green"/>
+      <hr/>
       <Count/>
       <Count/>
       <hr/>
