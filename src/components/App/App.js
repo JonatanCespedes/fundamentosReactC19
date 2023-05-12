@@ -20,7 +20,7 @@ function App() {
       <User />
       <hr/>
       <h2>Crear y anidar componentes</h2>
-      <Button />
+      <Button text="Prueba" className="btn-green"/>
     </div>
   );
 }
