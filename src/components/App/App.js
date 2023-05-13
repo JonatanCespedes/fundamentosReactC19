@@ -2,6 +2,7 @@ import { Button } from '../Button/Button';
 import { ConditionalRendering } from '../ConditionalRendering';
 import { Count } from '../Count';
 import { List } from '../List';
+import { TikTakToe } from '../TikTakToe';
 import { User } from '../User/User';
 import './App.css';
 
@@ -9,6 +10,8 @@ function App() {
   return (
     <div className="App">
       <h1>React doc - Inicio Rapido</h1>
+      <hr/>
+      <TikTakToe />
       <hr/>
       <Button text={"PROPTYPES"} className="btn-green"/>
       <hr/>
